@@ -25,6 +25,7 @@ string: үгээр илэрхийлсэн цагийн мөр
 Хоёр дахь мөрөнд m (минут)
 
 
-НОТОЛГОО:  ![image](https://github.com/user-attachments/assets/3ea3890f-f553-40f5-bbe6-d58b7dbee907)
+НОТОЛГОО:  ![image](https://github.com/user-attachments/assets/38332f92-e402-444d-8338-268bd9fecabe)
+
 
 
