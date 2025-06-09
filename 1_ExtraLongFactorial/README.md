@@ -13,5 +13,6 @@ n: бүхэл тоо
 
 
 НОТОЛГОО: 
+
 ![image](https://github.com/user-attachments/assets/cf0b95c8-21d6-47e1-91c9-8d29d6f86358)
 
