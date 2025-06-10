@@ -15,5 +15,9 @@
 1 1 4 1
 Гаралт:
 5
+
+
 БАТАЛГАА: 
+
+
   ![image](https://github.com/user-attachments/assets/70dfd471-4374-41c5-b8d8-2115ff9618ff)
