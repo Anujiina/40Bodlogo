@@ -10,3 +10,5 @@ int k: хуваагч тоо
 Хязгаарлалт:Бүх өгөгдсөн тоонууд хоорондоо ялгаатай байна
 
 БАТАЛГАА: 
+
+ ![image](https://github.com/user-attachments/assets/6d5d7fba-54cb-45fd-9bf4-aad02af88cc2)
