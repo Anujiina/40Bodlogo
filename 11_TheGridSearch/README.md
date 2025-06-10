@@ -24,5 +24,6 @@
 
 БАТАЛГАА: 
 
- ![image](https://github.com/user-attachments/assets/b3148e7a-083f-45b6-b28a-831b3f230f0c)
+ ![image](https://github.com/user-attachments/assets/6ddb58c3-c638-4cd0-a0ba-fc44845e3d7a)
+
 
