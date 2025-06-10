@@ -18,4 +18,5 @@
 4
 Гаралт: 1 2 3 3 4
 БАТАЛГАА: 
-![Uploading image.png…]()
+ ![image](https://github.com/user-attachments/assets/cc016248-29fd-4100-b5df-46a4865cb368)
+
