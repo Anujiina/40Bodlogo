@@ -1,4 +1,5 @@
 БОДЛОГЫН ХОЛБООС:  https://www.hackerrank.com/challenges/encryption/problem
+
 БОДЛОГЫН ӨГҮҮЛБЭР: 
 Англи хэл дээрх өгүүлбэр (s) өгөгдөх ба үүнийг дараах шифрлэх аргаар нууц үг болгон хувиргана:
 1.Мөрөөс бүх зай (space)-г арилгана.
@@ -18,4 +19,9 @@ haveaniceday
 Алхамууд:
 Зай арилгасны дараа: "haveaniceday" (урт нь 12)
 sqrt(12) ≈ 3.46 → rows = 3, cols = 4
+
+
 БАТАЛГАА: 
+
+ ![image](https://github.com/user-attachments/assets/5d324987-4809-4e3c-9723-258360450950)
+
