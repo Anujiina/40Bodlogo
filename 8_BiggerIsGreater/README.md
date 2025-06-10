@@ -16,3 +16,8 @@
 Жишээ 3:
 Оролт: dkhc
 Гаралт: hcdk
+
+
+БАТАЛГАА: 
+
+ ![image](https://github.com/user-attachments/assets/8306a30c-5afc-4ad3-895d-726b47ed064a)
