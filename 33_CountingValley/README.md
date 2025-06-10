@@ -23,5 +23,7 @@ s = [DDUUUUDD]
 UDDDUDUU
 Жишээ гаралт:
 1
+
+
 БАТАЛГАА: 
  ![image](https://github.com/user-attachments/assets/8fc6f863-25f4-49eb-83c6-3712b31aabcb)
